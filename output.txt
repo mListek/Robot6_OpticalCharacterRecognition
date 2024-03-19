@@ -1,0 +1,2 @@
+﻿Receipt ID: 47213527, Receipt Date: 08/09/2022, Sale Amount: 20.89, Sum Amount: 20.89
+Receipt ID: 58462358, Receipt Date: 08/23/2022, Sale Amount: 79.66, Sum Amount: 100.55
